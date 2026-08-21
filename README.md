@@ -49,6 +49,13 @@ Karya lomba **Gemastik** (Pagelaran Mahasiswa Nasional bidang Teknologi Informas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzrizqullahprasetya&layout=compact&theme=tokyonight" height="170" />
 </p>
 
+<details>
+  <summary>📈 Statistik lengkap (otomatis)</summary>
+
+  ![Metrics](github-metrics.svg)
+
+</details>
+
 ## 📫 Hubungi Saya
 
 - 🌐 Website: [ugm.ac.id](https://ugm.ac.id)
