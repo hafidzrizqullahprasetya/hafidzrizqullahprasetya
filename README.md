@@ -5,8 +5,6 @@ Full-stack developer focused on building practical tools for Indonesian SMEs.
 
 Currently building [Verifin](https://github.com/hafidzrizqullahprasetya/gemastik19) for Gemastik 19.
 
-![Total contributions](https://streak-stats.demolab.com?user=hafidzrizqullahprasetya&locale=en&mode=daily)
-
 ## Projects
 
 - **[website-wongkito](https://github.com/hafidzrizqullahprasetya/website-wongkito)** — culinary business website, live at pempekasliwongkito.my.id
