@@ -5,7 +5,7 @@ Full-stack developer focused on building practical tools for Indonesian SMEs.
 
 Currently building [Verifin](https://github.com/hafidzrizqullahprasetya/gemastik19) for Gemastik 19.
 
-![Total contributions](https://streak-stats.demolab.com?user=hafidzrizqullahprasetya&hide_longest_streak=true&locale=en&mode=weekly)
+![Total contributions](https://streak-stats.demolab.com?user=hafidzrizqullahprasetya&locale=en&mode=daily)
 
 ## Projects
 
